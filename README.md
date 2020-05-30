@@ -96,3 +96,41 @@ Tree
     Check if given Binary Tree is Height Balanced or Not
     Serialize and Deserialize a Binary Tree
 
+Greedy
+
+    Activity Selection
+    N meetings in one room
+    Coin Piles
+    Maximize Toys
+    Page Faults in LRU
+    Largest number possible
+    Minimize the heights
+    Minimize the sum of product
+    Huffman Decoding
+    Minimum Spanning Tree
+    Shop in Candy Store
+    Geek collects the balls
+
+DP
+
+    Minimum Operations
+    Max length chain
+    Minimum number of Coins
+    Longest Common Substring
+    Longest Increasing Subsequence
+    Longest Common Subsequence
+    0 – 1 Knapsack Problem
+    Maximum sum increasing subsequence
+    Minimum number of jumps
+    Edit Distance
+    Coin Change Problem
+    Subset Sum Problem
+    Box Stacking
+    Rod Cutting
+    Path in Matrix
+    Minimum sum partition
+    Count number of ways to cover a distance
+    Egg Dropping Puzzle
+    Optimal Strategy for a Game
+    Shortest Common Supersequence
+
